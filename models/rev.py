@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Define module for rev clas
+Define module for rev class
 """
 from models.base_model import BaseModel
 
